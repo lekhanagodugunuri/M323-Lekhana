@@ -19,6 +19,6 @@ public class TipCalculator {
         int groupSize2 = 7;
 
         System.out.println("Tip percentage for group of " + groupSize1 + ": " + calculateTipPercentage(groupSize1) + "%");
-        System.out.println("Tip percentage for group of " + groupSize2 + ": " + calculateTipPercentage(groupSize2) + "%"); 
+        System.out.println("Tip percentage for group of " + groupSize2 + ": " + calculateTipPercentage(groupSize2) + "%");
     }
 }
