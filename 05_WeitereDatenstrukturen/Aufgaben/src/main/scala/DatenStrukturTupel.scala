@@ -1,7 +1,7 @@
 import java.time.LocalTime
 
 
-object TupleExercises {
+object DatenStrukturTupel {
   def main(args: Array[String]): Unit = {
     // Aufgabe 1
     def wetterFunktion(): (String, LocalTime, Double) = {
